@@ -1,4 +1,17 @@
-#hari ini masih hoki
-#besok apakah akan hoki lagi
-#alemak
-![image alt](https://github.com/felixfauzichestaadabi-sketch/Metkom25lop/blob/16e8e3c3d4374b30d97ff42c48b6645e85f1c7cf/Screenshot%202025-09-19%20182837.png)
+# Halo 👋, saya Felix
+
+## 🔹 Tentang Saya
+- 🎓 Sedang belajar Git & GitHub  
+- 💻 Tertarik dengan Data Science dan Open Source  
+- 🌱 Selalu penasaran untuk mencoba hal-hal baru  
+
+## 🔹 Apa yang Sedang Saya Kerjakan
+- Membuat repository untuk tugas kuliah  
+- Berlatih alur kerja Git (clone, commit, push)  
+
+## 🔹 Hobi
+- 🎮 Bermain game  
+- 🎵 Mendengarkan musik    
+
+---
+⭐️ Dari [felixfauzichestaadabi-sketch](https://github.com/felixfauzichestaadabi-sketch)
