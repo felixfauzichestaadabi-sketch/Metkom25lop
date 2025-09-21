@@ -1,0 +1,15 @@
+
+# Assignment Report
+
+#Apa yang saya pelajari
+- Belajar git clone, git add, git commit, git push dan masih banyak lagi
+
+#apa yang masih bingung?
+- Bedanya git pull dan git fetch
+-jujur bingung semua
+-tolonggg
+
+```ASSIGNMENT_REPORT.md
+print("Hello GitHub")
+
+
